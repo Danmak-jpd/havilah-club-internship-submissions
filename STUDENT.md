@@ -6,12 +6,12 @@ Fill in every field below before your first commit. This file is how instructors
 
 | Field | Your Answer |
 |-------|-------------|
-| Full Name | |
-| GitHub Username | |
-| Email Address | |
-| Phone / WhatsApp | |
+| Full Name |EZEOBI AKACHUKWU DANIEL|
+| GitHub Username | Danmak-jpd|
+| Email Address | danmak967@gmail.com|
+| Phone / WhatsApp | 07025866030|
 | Cohort | Havilah Club Internship — Cohort |
-| Programme Start Date | |
+| Programme Start Date |7 SEP 2026 |
 | LinkedIn Profile | |
 
 ---
@@ -24,7 +24,7 @@ Write 2–3 sentences describing what you specifically want to be able to do by 
 
 ---
 
-## How to update this file
+## How to update this file 
 
 1. Open `STUDENT.md` in VS Code.
 2. Fill in every row of the table and your learning objective.
